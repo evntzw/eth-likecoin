@@ -1,7 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser')
 const fs = require("fs");
-//const db = require('./dbfunctions.js');
 const web3 = require('web3');
 const web3Provider = new web3('http://localhost:8545');
 const abi = JSON.parse(fs.readFileSync('./contracts/LIKEToken.abi').toString())
