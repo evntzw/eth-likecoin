@@ -3,7 +3,9 @@ A prototype demostration doing a proof of concept on incentivising users to gain
 
 # Programming Languages
 Frontend - ReactJS
+
 Backend - NodeJS, ExpressJS
+
 Blockchain - Solidity (Ethereum)
 
 # How to run
