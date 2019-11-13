@@ -1,5 +1,5 @@
 # Like Coin
-A prototype demostration doing a proof of concept on incentivising users to gain rewards in ERC-20 tokens when browsing websites using Ethereum blockchain
+A prototype demonstration doing a proof of concept on incentivising users to gain rewards in ERC-20 tokens when browsing websites using Ethereum blockchain
 
 # Programming Languages
 Frontend - ReactJS
